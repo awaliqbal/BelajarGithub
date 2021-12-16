@@ -1,0 +1,9 @@
+langkah-langkah push project
+
+1. buat project
+2. buat file di dalam folder
+3. git init
+4. git add .
+5. git commit "isi pesan"
+6. git remote add origin "url repository github"
+7. git push -u origin master
